@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'FLX BUILDER'
+  name: 'FLX RUNNER'
 
 steps:
 - script: echo Hello, world!
